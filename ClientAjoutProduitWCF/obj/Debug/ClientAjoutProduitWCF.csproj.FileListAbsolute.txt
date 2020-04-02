@@ -1,0 +1,10 @@
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\obj\Debug\ClientAjoutProduitWCF.csprojAssemblyReference.cache
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\obj\Debug\ClientAjoutProduitWCF.Form1.resources
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\obj\Debug\ClientAjoutProduitWCF.Properties.Resources.resources
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\obj\Debug\ClientAjoutProduitWCF.csproj.GenerateResource.cache
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\obj\Debug\ClientAjoutProduitWCF.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\bin\Debug\ClientAjoutProduitWCF.exe.config
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\bin\Debug\ClientAjoutProduitWCF.exe
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\bin\Debug\ClientAjoutProduitWCF.pdb
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\obj\Debug\ClientAjoutProduitWCF.exe
+E:\Documents\Visual Studio 2017\source\repos\ClientAjoutProduitWCF\ClientAjoutProduitWCF\obj\Debug\ClientAjoutProduitWCF.pdb
